@@ -1,0 +1,21 @@
+{
+  "name": "f1graphs",
+  "version": "1.0.0",
+  "description": "f1 graphs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "f1",
+    "graphs"
+  ],
+  "author": "Harshal L",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mysql": "^2.18.1"
+  }
+}
